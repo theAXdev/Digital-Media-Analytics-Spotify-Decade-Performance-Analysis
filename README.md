@@ -3,7 +3,8 @@
 > A comprehensive decade-long analysis of Spotify's top-streamed tracks and artists from 2010 to 2019, executed entirely in Microsoft Excel. The project uncovers the streaming patterns, genre dynamics, artist dominance, playlist influence, and sonic characteristics that defined a decade of global music consumption.
 
 ---
-<img width="1598" height="840" alt="Dashboard" src="https://github.com/user-attachments/assets/c139128a-83e7-4da4-83de-ce51426db8de" />
+<img width="1598" height="840" alt="BR_Digital_Media_Analytics_Dashboard" src="https://github.com/user-attachments/assets/b189a8e3-6309-4f80-9c37-b416ae82610b" />
+
 
 
 ---
